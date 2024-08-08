@@ -8,4 +8,5 @@
     'description': 'Hospital Management System - sample custom module',
     'application': True,
     'license': 'LGPL-3',
+    'sequence': -100
 }
