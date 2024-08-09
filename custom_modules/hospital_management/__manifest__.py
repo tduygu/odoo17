@@ -10,7 +10,9 @@
     'license': 'LGPL-3',
     'sequence': -100,
     'depends': [],
-    'data': [],
+    'data': [
+        'security/ir.model.access.csv',
+    ],
     'installable': True,
     'auto_install': False,
 }
